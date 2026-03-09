@@ -56,8 +56,8 @@ GitHub: https://github.com/SimpleDevsSL
 ## 📫 Find me here
 
 Portfolio: https://lelox028.github.io/  
-GitHub: https://github.com/lelox028
-Email: giulianopascarelli@gmail.com
+GitHub: https://github.com/lelox028  
+Email: giulianopascarelli@gmail.com  
 Linkedin: https://www.linkedin.com/in/giuliano-pascarelli-097100190/
 
 ---
